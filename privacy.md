@@ -6,7 +6,7 @@
 
 SWU Cardex est une application mobile développée par XXX, développeur indépendant. Cette application n'est pas affiliée à Lucasfilm Ltd., The Walt Disney Company, ni à Fantasy Flight Publishing, Inc.
 
-Contact : [ton-email@example.com]
+Contact : via le formulaire de contact intégré à l'application (section "Assistance" → "Nous contacter")
 
 ## 2. Données collectées
 
@@ -61,7 +61,7 @@ SWU Cardex ne collectant aucune donnée personnelle, aucune restriction d'âge p
 
 Dans la mesure où aucune donnée personnelle n'est collectée par SWU Cardex, les droits d'accès, rectification et suppression prévus par le RGPD s'exercent directement sur votre appareil (désinstallation de l'app).
 
-Pour toute question relative aux données transmises via le formulaire de contact, vous pouvez nous écrire à : [ton-email@example.com]
+Pour toute question relative aux données transmises via le formulaire de contact, utilisez le formulaire intégré à l'application (section "Assistance" → "Nous contacter").
 
 ## 9. Évolution de cette politique
 
