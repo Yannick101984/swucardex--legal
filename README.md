@@ -4,7 +4,7 @@
 
 ## 1. Qui sommes-nous ?
 
-SWU Cardex est une application mobile développée par XXX, développeur indépendant. Cette application n'est pas affiliée à Lucasfilm Ltd., The Walt Disney Company, ni à Fantasy Flight Publishing, Inc.
+SWU Cardex est une application mobile développée par Yannick Le Pilouer, développeur indépendant. Cette application n'est pas affiliée à Lucasfilm Ltd., The Walt Disney Company, ni à Fantasy Flight Publishing, Inc.
 
 Contact : via le formulaire de contact intégré à l'application (section "Assistance" → "Nous contacter")
 
