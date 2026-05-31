@@ -1,6 +1,6 @@
 # Politique de Confidentialité — SWU Cardex
 
-*Dernière mise à jour : 28 mars 2026*
+*Dernière mise à jour : 31 mai 2026*
 
 ## 1. Qui sommes-nous ?
 
